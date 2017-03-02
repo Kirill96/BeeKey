@@ -1,0 +1,26 @@
+PODS:
+  - CryptoSwift (0.6.7)
+  - Jelly (1.2.2)
+  - Realm (2.4.2):
+    - Realm/Headers (= 2.4.2)
+  - Realm/Headers (2.4.2)
+  - RealmSwift (2.4.2):
+    - Realm (= 2.4.2)
+  - SwiftyButton (0.6.0)
+
+DEPENDENCIES:
+  - CryptoSwift
+  - Jelly
+  - RealmSwift
+  - SwiftyButton
+
+SPEC CHECKSUMS:
+  CryptoSwift: 685ae257941e5447474348a2b545583e1a16b573
+  Jelly: b4ff439f4804c193424e922a6ac3d311fbd78d1f
+  Realm: d27b758e12d62a3371879a065d4c40aa212c5a54
+  RealmSwift: 9556c0fe0f0cfecacfb755ae9e68ff379fc6bead
+  SwiftyButton: 4c9b61c499f172971a1b8c2eebbbdc20a26d8a08
+
+PODFILE CHECKSUM: 6c4091c187dad2086000ac7cfd1f53c6730f0be7
+
+COCOAPODS: 1.1.1
